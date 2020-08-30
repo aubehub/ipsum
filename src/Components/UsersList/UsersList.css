@@ -1,0 +1,30 @@
+.userslist-border{
+  background-color: white;
+  margin: 24px;
+  border-radius: 7px;
+}
+
+.users-list{
+  width: 96px;
+  margin: 30px 50px 30px 70px;
+  text-align: right;
+}
+
+.color-point{
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  border-radius: 10px;
+  margin-top: 6px;
+}
+
+.inactive{
+  color:rgb(207, 204, 204);
+}
+
+.color-point.white{
+  width: 15px;
+  height: 15px;
+  border: 1px solid black;
+  border-radius: 10px;
+}

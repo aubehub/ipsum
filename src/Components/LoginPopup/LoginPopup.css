@@ -1,0 +1,73 @@
+.popup {  
+  position: fixed;
+  top: 0;  
+  left: 0;  
+  right: 0;  
+  bottom: 0;  
+  margin: auto;
+  background-color: rgba(0,0,0, 0.5);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  z-index: 1;
+}  
+
+.popup-inner {  
+  position: relative;  
+  margin: 80px auto;  
+  border-radius: 5px;  
+  background-color: white;  
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+  transition: all .3s;
+  padding: 40px 52px;
+}
+
+.close-icon {
+  position: absolute;
+  right: 25px;
+  top:18px;
+  background: transparent;
+  border: 0 none;
+}
+.close-icon:focus{
+  outline: 0;
+}
+
+.btn-block{
+  width: 31%;
+}
+
+.error-message{
+  color:red;
+}
+
+.popup h3 {
+  text-align: center;
+  margin: 0;
+  line-height: 1;
+  padding-bottom: 20px;
+}
+
+.form-group{
+  width: 315px;
+}
+.custom-control{
+  text-align: left;
+}
+
+.custom-control-label {
+  font-weight: 400;
+}
+
+.forgot-password,
+.forgot-password a {
+  text-align: left;
+  font-size: 13px;
+  padding-top: 10px;
+  color: #7f7d7d;
+  margin: 0;
+}
+
+.forgot-password a {
+  color: #167bff;
+}
