@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ipsum/static/css/main.38c6f183.chunk.css",
+    "main.js": "/ipsum/static/js/main.33217777.chunk.js",
+    "main.js.map": "/ipsum/static/js/main.33217777.chunk.js.map",
+    "runtime-main.js": "/ipsum/static/js/runtime-main.b3ae2d8c.js",
+    "runtime-main.js.map": "/ipsum/static/js/runtime-main.b3ae2d8c.js.map",
+    "static/css/2.11829350.chunk.css": "/ipsum/static/css/2.11829350.chunk.css",
+    "static/js/2.b7359579.chunk.js": "/ipsum/static/js/2.b7359579.chunk.js",
+    "static/js/2.b7359579.chunk.js.map": "/ipsum/static/js/2.b7359579.chunk.js.map",
+    "index.html": "/ipsum/index.html",
+    "precache-manifest.cd6cab3649cb33bd05b4053a39c9a661.js": "/ipsum/precache-manifest.cd6cab3649cb33bd05b4053a39c9a661.js",
+    "service-worker.js": "/ipsum/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/ipsum/static/css/2.11829350.chunk.css.map",
+    "static/css/main.38c6f183.chunk.css.map": "/ipsum/static/css/main.38c6f183.chunk.css.map",
+    "static/js/2.b7359579.chunk.js.LICENSE.txt": "/ipsum/static/js/2.b7359579.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3ae2d8c.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.b7359579.chunk.js",
+    "static/css/main.38c6f183.chunk.css",
+    "static/js/main.33217777.chunk.js"
+  ]
+}
